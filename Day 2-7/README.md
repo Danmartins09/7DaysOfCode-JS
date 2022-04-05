@@ -1,4 +1,4 @@
-7DaysOfCode_Javascript Day 2/7
+<h2>Lógica JS 2/7: 👩🏽‍💻 Variáveis</h2>
 
  Hoje, deverá ser feito um programa que deva pedir para o usuário responder 3 perguntas:
 
