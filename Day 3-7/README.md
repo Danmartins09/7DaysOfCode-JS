@@ -1,3 +1,4 @@
+<h2> Lógica JS 3/7: Fluxo de decisão</h2>
 Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
 
 1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.
