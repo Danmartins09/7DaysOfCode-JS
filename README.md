@@ -1,4 +1,4 @@
-# 7DaysOfCode_JS
+# 7DaysOfCode-JS
 7DaysOfCode - Lógica JS 1/7
 
 O projeto é o 7 Days of Code.
